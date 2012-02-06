@@ -41,7 +41,7 @@
  * @copyright 2002 Douglas Crockford <douglas@crockford.com> (jsmin.c)
  * @copyright 2008 Ryan Grove <ryan@wonko.com> (PHP port)
  * @license http://opensource.org/licenses/mit-license.php MIT License
- * @version 1.1.2 (2008-03-02)
+ * @version 1.1.2 (2012-02-06)
  * @link https://github.com/rgrove/jsmin-php/
  * @link https://github.com/gregdangelo/jsmin-php
  */
